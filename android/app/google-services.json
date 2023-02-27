@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782993899254",
+    "project_id": "erynue-78073",
+    "storage_bucket": "erynue-78073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782993899254:android:5e79da64e85fb92597f6d7",
+        "android_client_info": {
+          "package_name": "com.example.everynue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782993899254-h3mkqa7u3st55ecdk7bjpff5v33dc1mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLJubCmCIx6uWTTfCRoFO7sBUJTHRHkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782993899254-h3mkqa7u3st55ecdk7bjpff5v33dc1mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
